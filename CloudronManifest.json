@@ -15,7 +15,7 @@
   },
   "manifestVersion": 2,
   "website": "https://n8n.io",
-  "contactEmail": "support@clourdon.io",
+  "contactEmail": "support@cloudron.io",
   "icon": "logo.png",
   "tags": [ "workflow", "automation", "ifttt", "zapier", "huginn", "integromat" ],
   "changelog": "file://CHANGELOG",
